@@ -1,0 +1,2 @@
+# Chinese-classification
+利用tensorflow框架实现CNN中文文本分类
